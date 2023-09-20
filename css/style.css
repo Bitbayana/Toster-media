@@ -135,7 +135,7 @@ button {
       padding-top: 10px; }
 
 .hero {
-  background-image: url("./images/1.jpg");
+  background-image: url("../images/1.jpg");
   height: 281px;
   display: flex;
   justify-content: end;
